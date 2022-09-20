@@ -1,0 +1,95 @@
+.navbgcolor{
+    background-color: rgb(34, 125, 80);
+}
+.end{
+    margin: 0% !important;
+    padding: 0% !important;
+}
+/* @media only screen and (min-width:200px) and (max-width:567px) {
+            .card1{
+                margin-top: 10px;
+            }
+        } */
+        .trans2{
+            background: rgba(0,0,0,0.7);
+        }
+        body{
+            margin: 0%;
+            padding: 0%;
+        }
+        .i81{
+            height: 400px;
+            width: 100%;
+        }
+        .i14{
+            background: url(i9.jpg) fixed;
+            background-size: cover;
+        }
+        .i9{
+            background: url(i9.jpg) ;
+            background-size: cover;
+        }
+        .i10{
+            background: url(i10.webp);
+            background-size: cover;
+        }
+        .i11{
+            background: url(i11.jpg);
+            background-size: cover;
+        }
+        .i12{
+            background: url(i12.jpg);
+            background-size: cover;
+        }
+        .i8{
+            background: url(i8.jpg) fixed;
+            background-size: cover;
+        }
+        .i13{
+            background: url(i13.webp);
+            background-size: cover;
+        }
+        .trans1{
+            background: rgba(66, 77, 229, 0.8);
+        }
+        .trans{
+            background: rgba(0,0,0,0.6);
+        }
+        .i1{
+            background: url(i1.webp);
+            background-size: cover;
+            
+        }
+        .i2{
+            background: url(i2.webp);
+            background-size: cover;
+              
+        }
+        .i3{
+            background: url(i3.jpg);
+            background-size: cover;
+              
+        }
+        .slider{
+            height: 600px;
+
+        }
+        .sliderContent1{
+            font-size: 20px;
+        }
+        .sliderContent{
+            font-size: 40px;
+        }
+        .icon{
+            font-size: 50px;
+            text-align: center;
+        }
+        .content{
+            font-size: 18px;
+        }
+        .navposition{
+            position: sticky;
+            top: 0px;
+            z-index: 500;
+        }
+        
